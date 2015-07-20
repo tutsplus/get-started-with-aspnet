@@ -8,7 +8,7 @@ In this course, you'll learn everything you need in order to get started writing
 
 ## Source Files Description
 
-This repository contains the completed source code for the course project - a simple message board called "Soundboard".
+This repository contains the completed source code for the course project - a simple ASP.NET MVC 6 message board called "Soundboard".
 
 ------
 
